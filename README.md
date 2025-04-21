@@ -60,11 +60,12 @@ dotnet run
 
 | Tópico               | Status      |
 |----------------------|-------------|
-| Herança              | ⏳ Pendente |
-| Polimorfismo         | ⏳ Pendente |
-| Interfaces           | ⏳ Pendente |
-| Classes Abstratas    | ⏳ Pendente |
-| Princípios SOLID     | ⏳ Pendente |
+| Herança              | ✅ |
+| Polimorfismo         | ✅ |
+| Interfaces           | ✅ |
+| Classes Abstratas    | ✅ |
+| Princípios SOLID     | ✅ |
+| linq     | 🧠 |
 
 ---
 
